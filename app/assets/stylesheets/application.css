@@ -15,3 +15,7 @@
  *= require megamenu
  *= require_self
  */
+
+.panel {
+  border-radius: 0px !important; 
+}

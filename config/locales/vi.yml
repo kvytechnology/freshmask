@@ -1,0 +1,7 @@
+vi:
+  spree:
+    order_state:
+      address: Đỉa chỉ
+      complete: Hoàn thành
+      delivery: Giao hàng
+      payment: Thanh toán
