@@ -20,6 +20,8 @@ gem 'spree', '~> 3.2.0'
 gem 'spree_auth_devise', '~> 3.2'
 gem 'spree_gateway', '~> 3.2'
 gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
+gem 'spree_recently_viewed', github: 'spree-contrib/spree_recently_viewed'
+gem 'spree_reviews', github: 'spree-contrib/spree_reviews'
 
 group :development do
   gem 'listen'
