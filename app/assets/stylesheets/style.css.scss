@@ -315,7 +315,7 @@ ul.qty li p{
   color: #000000;
   margin-right: 0px;
   padding: 1px 10px;
-  background: url(/assets/phon.png) no-repeat 0px 2px;
+  background: url(image-url('phon.png')) no-repeat 0px 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -610,7 +610,7 @@ input:focus {
 	background: #ffffff;
 }
 .search input[type="submit"]{
-	background: url('/assets/search.png') no-repeat 0px 1px;
+	background: url(image-url('search.png')) no-repeat 0px 1px;
 	border: none;
 	cursor: pointer;
 	width: 24px;
@@ -983,52 +983,52 @@ i.ars {
 i.facebok {
   width: 35px;
   height: 35px;
-  background: url(/assets/img-sprite.png)no-repeat -8px -10px;
+  background: url(image-url('img-sprite.png'))no-repeat -8px -10px;
   float: left;
   vertical-align: middle;
 }
 i.facebok:hover{
-  background: url(/assets/img-sprite.png)no-repeat -8px -46px;
+  background: url(image-url('img-sprite.png'))no-repeat -8px -46px;
 }
 i.twiter {
   width: 35px;
   height: 35px;
-  background: url(/assets/img-sprite.png)no-repeat -48px -12px;
+  background: url(image-url('img-sprite.png'))no-repeat -48px -12px;
   float: left;
   vertical-align: middle;
 }
 i.twiter:hover{
-  background: url(/assets/img-sprite.png)no-repeat -48px -48px;
+  background: url(image-url('img-sprite.png'))no-repeat -48px -48px;
 }
 i.be {
   width: 35px;
   height: 35px;
-  background: url(/assets/img-sprite.png)no-repeat -133px -10px;
+  background: url(image-url('img-sprite.png'))no-repeat -133px -10px;
   float: left;
   vertical-align: middle;
 }
 i.be:hover{
-  background: url(/assets/img-sprite.png)no-repeat -133px -46px;
+  background: url(image-url('img-sprite.png'))no-repeat -133px -46px;
 }
 i.pp {
   width: 35px;
   height: 35px;
-  background: url(/assets/img-sprite.png)no-repeat -177px -9px;
+  background: url(image-url('img-sprite.png'))no-repeat -177px -9px;
   float: left;
   vertical-align: middle;
 }
 i.pp:hover{
-  background: url(/assets/img-sprite.png)no-repeat -177px -45px;
+  background: url(image-url('img-sprite.png'))no-repeat -177px -45px;
 }
 i.goog {
   width: 35px;
   height: 35px;
-  background: url(/assets/img-sprite.png)no-repeat -92px -13px;
+  background: url(image-url('img-sprite.png'))no-repeat -92px -13px;
   float: left;
   vertical-align: middle;
 }
 i.goog:hover{
-  background: url(/assets/img-sprite.png)no-repeat -92px -48px;
+  background: url(image-url('img-sprite.png'))no-repeat -92px -48px;
 }
 .social-ic ul {
   padding: 0;
@@ -1100,7 +1100,7 @@ i.phone {
   width: 19px;
   height: 21px;
   display: inline-block;
-  background: url(/assets/img-sprite.png) no-repeat -235px -39px;
+  background: url(image-url('img-sprite.png')) no-repeat -235px -39px;
   vertical-align: middle;
   margin-right: 0.5em;
 }
@@ -1108,7 +1108,7 @@ i.add {
   width: 17px;
   height: 24px;
   display: inline-block;
-  background: url(/assets/img-sprite.png) no-repeat -236px -11px;
+  background: url(image-url('img-sprite.png')) no-repeat -236px -11px;
   vertical-align: middle;
   margin-right: 0.5em;
 }
@@ -1116,7 +1116,7 @@ i.mail {
   width: 17px;
   height: 14px;
   display: inline-block;
-  background: url(/assets/img-sprite.png) no-repeat -236px -76px;
+  background: url(image-url('img-sprite.png')) no-repeat -236px -76px;
   margin-right: 0.5em;
 }
 .our-st li {
