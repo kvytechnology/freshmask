@@ -501,7 +501,7 @@ fieldset#body {
     float:left;
     padding:0;
     border:0;
-    *margin:-3px 9px 0 0; /* IE7 Fix */
+    margin:-3px 9px 0 0;
 }
 #body label {
     color:#000;
@@ -671,7 +671,6 @@ input:focus {
 }
 .icon1 {
   float: left;
-  zoom: 1;
   margin-right: 0%;
   width: 40%;
   margin: 8px 0 0;
@@ -691,7 +690,7 @@ ul.icon1 {
 .icon1 li:hover > a {
 	color: #fafafa;
 }
-*html .icon1 li a:hover { /* IE6 only */
+html .icon1 li a:hover {
 	color: #fafafa;
 }
 .icon1 ul {
