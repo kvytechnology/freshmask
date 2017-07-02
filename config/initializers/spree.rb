@@ -16,3 +16,4 @@ Spree.config do |config|
 end
 
 Spree.user_class = "Spree::User"
+Spree::Config[:default_country_id] = Spree::Country.find_by(iso: "VN").id
