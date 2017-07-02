@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.3.4'
+
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
   "https://github.com/#{repo_name}.git"
@@ -17,7 +19,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'spree', '~> 3.2.0'
 gem 'spree_auth_devise', '~> 3.2'
 gem 'spree_gateway', '~> 3.2'
-gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
+gem 'spree_i18n', path: '/Users/mac/Desktop/kvy_tech/spree_i18n'
 
 group :development do
   gem 'listen'
