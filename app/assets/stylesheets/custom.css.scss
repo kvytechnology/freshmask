@@ -1,0 +1,36 @@
+.btn-buy {
+  font-family: 'Open Sans', sans-serif;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  display: inline-block;
+  padding: 7px 9px;
+  background: #ff6978;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+
+.btn-buy:hover {
+  color: white;
+  background-color: #00405d;
+}
+
+.freshmask-input {
+  border-radius: 0px;
+}
+
+.freshmask-btn-quick-buy {
+  border-radius: 0px;
+  background: rgb(9, 209, 182);
+  border: none;
+  color: #fff;
+  font-size: 0.85em;
+  border: none;
+}
+
+.freshmask-btn-quick-buy:hover {
+  background: rgb(9, 209, 182);
+  color: white;
+  text-decoration: underline;
+}
