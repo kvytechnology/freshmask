@@ -23,6 +23,7 @@ gem 'spree_i18n', path: '/Users/mac/Desktop/kvy_tech/spree_i18n'
 gem 'spree_recently_viewed', github: 'spree-contrib/spree_recently_viewed'
 gem 'spree_reviews', github: 'spree-contrib/spree_reviews'
 gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
+
 gem 'tinymce-rails'
 
 group :development do

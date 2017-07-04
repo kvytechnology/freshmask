@@ -5,3 +5,9 @@ vi:
       complete: Hoàn thành
       delivery: Giao hàng
       payment: Thanh toán
+
+    coupon_code_apply: Nhập mã
+    out_of_5: ''
+    average_customer_rating: 'Khách hàng đánh giá'
+    based_upon_review_count: ''
+    recently_viewed_products: 'Sản phẩm mới xem'
